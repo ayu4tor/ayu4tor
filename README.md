@@ -1,6 +1,5 @@
-  
+ <p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img         src="https://camo.githubusercontent.com/f76accf90aa98e66228c854f326902a77e77c884c6b41c4002de3c0ff0c72586/687474703a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233333642434637266c696e65733d49276d2b612b507572726772616d6d65722e" alt="Typing SVG" data-canonical-src="http://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;lines=I'm+a+learner" style="max-width: 100%;"></a></p>
 -  👩‍🎓 I’m Ayushi ( @ayu4tor)
--  <p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img         src="https://camo.githubusercontent.com/f76accf90aa98e66228c854f326902a77e77c884c6b41c4002de3c0ff0c72586/687474703a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233333642434637266c696e65733d49276d2b612b507572726772616d6d65722e" alt="Typing SVG" data-canonical-src="http://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;lines=I'm+a+learner" style="max-width: 100%;"></a></p>
 - 💞️ I’m a learner gurl !!
 - 🌱 I’m currently learning- html - css, sql ,python ,java, php, blockchain ,c++, hacking !!
 - 🤗 Always be a beginner !!
