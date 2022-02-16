@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://activity-graph.herokuapp.com/graph?username=ayu4tor&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 
 <img src="https://ghchart.rshah.org/ayu4tor" alt="2016rshah's Github chart" />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imvickykumar999&style=plastic&color=orange&label=PROFILE+VIEWS"/> </p>
 
