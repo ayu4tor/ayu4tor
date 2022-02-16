@@ -14,21 +14,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://activity-graph.herokuapp.com/graph?username=ayu4tor&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 
 <script
-  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"
+  src="https://cdn.rawgit.com/ayu4tor/github-calendar/gh-pages/dist/github-calendar.min.js"
 >
 </script>
-
 <link
   rel="stylesheet"
-  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
+  href="https://cdn.rawgit.com/ayu4tor/github-calendar/gh-pages/dist/github-calendar.css"
 />
-
-
 <div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
 </div>
-
 <script>
     new GitHubCalendar(".calendar", "ayu4tor");
 </script>
