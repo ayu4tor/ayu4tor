@@ -1,5 +1,4 @@
-                                                     from simple_colors import *
-                                                     print(green('  Hey folks! 👋 ', ['bold'])
+                                                    
 -  👩‍🎓 I’m Ayushi ( @ayu4tor)
 - 💞️ I’m a learner gurl !!
 - 🌱 I’m currently learning- html - css, sql ,python ,java, php, blockchain ,c++, hacking !!
@@ -18,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://ghchart.rshah.org/ayu4tor" alt="2016rshah's Github chart" />
 
-<p align="left"> <img src="https://twitter.com/Ayushii68284285?username=ayu4tor&style=plastic&color=orange&label=TWITTER"/> </p>
+<p align="left"> <img src="https://twitter.com/Ayushii68284285?username=Ayushii68284285&style=plastic&color=orange&label=TWITTER"/> </p>
 
