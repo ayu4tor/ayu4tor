@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://ghchart.rshah.org/ayu4tor" alt="2016rshah's Github chart" />
 
 <p align="left"> <img src="https://twitter.com/Ayushii68284285?username=ayu4tor&style=plastic&color=orange&label=PROFILE+VIEWS"/> </p>
-![](https://komarev.com/ghpvc/?username=ayu4tor)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu4tor"> </p>
 
