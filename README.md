@@ -1,6 +1,6 @@
 <h1 align="Center" dir="auto"><a id="user-content-Hello-Flokz!--" class="anchor" aria-hidden="true" href="#Hello-Flokz!--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hello-Flokz!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> </h1>
 
-[Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img         src="https://camo.githubusercontent.com/f76accf90aa98e66228c854f326902a77e77c884c6b41c4002de3c0ff0c72586/687474703a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233333642434637266c696e65733d49276d2b612b507572726772616d6d65722e" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=M+I+Learner;Using+GitHub)](https://git.io/typing-svg)style="max-width: 100%;"></a></p>
 
 -  👩‍🎓 I’m Ayushi ( @ayu4tor)
 - 💞️ I’m a learner gurl !!
