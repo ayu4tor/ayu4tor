@@ -1,4 +1,5 @@
-  👩‍🎓 I’m Ayushi ( @ayu4tor)
+ ! Hey folks! 👋
+-  👩‍🎓 I’m Ayushi ( @ayu4tor)
 - 💞️ I’m a learner gurl !!
 - 🌱 I’m currently learning- html - css, sql ,python ,java, php, blockchain ,c++, hacking !!
 - 🤗 Always be a beginner !!
