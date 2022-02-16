@@ -1,4 +1,4 @@
-- 👋 Hie, I’m Ayushi ( @ayu4tor)
+  👩‍🎓 I’m Ayushi ( @ayu4tor)
 - 💞️ I’m a learner gurl !!
 - 🌱 I’m currently learning- html - css, sql ,python ,java, php, blockchain ,c++, hacking !!
 - 🤗 Always be a beginner !!
@@ -6,7 +6,7 @@
 - by Twitter -https://twitter.com/Ayushii68284285?t=MjeN1MHtnDdwqF45pMCpXg&s=09
 - by Instagram -https://www.instagram.com/ayu4_shi8
 - by Linkdln -https://www.linkedin.com/in/ayushi-agarwal-1946671b9
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu4tor&style=plastic&color=orange&label=PROFILE+VIEWS"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu4tor&style=flat&color=red&label=PROFILE+VIEWS"/> </p>
 
 <!---
 ayu4tor/ayu4tor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://ghchart.rshah.org/ayu4tor" alt="2016rshah's Github chart" />
 
-<p align="left"> <img src="https://twitter.com/Ayushii68284285?t=MjeN1MHtnDdwqF45pMCpXg&s=09username=ayu4tor&style=plastic&color=orange&label=PROFILE+VIEWS"/> </p>
+<p align="left"> <img src="https://twitter.com/Ayushii68284285?username=ayu4tor&style=plastic&color=orange&label=PROFILE+VIEWS"/> </p>
