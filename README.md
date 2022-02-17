@@ -19,4 +19,12 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu4tor&style=flat&color=red&label=PROFILE+VIEWS"/> </p>
 
 <img src="https://ghchart.rshah.org/ayu4tor" alt="2016rshah's Github chart" />
+<h2 dir="auto"><a id="user-content--streak-stats" class="anchor" aria-hidden="true" href="#-streak-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streak stats</h2>
+<p align="center" dir="auto">
+  <a href="https://github.com/ayu4tor/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ayu4tor's streak" src="https://camo.githubusercontent.com/d7b14891b53160bb9698efce0967b4da2d52f0acae47478128ed8abb01b339bb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d44656e766572436f64657231267468656d653d6d6f6e6f6b61692d6d6574616c6c69616e26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ayu4tor&amp;theme=monokai-metallian&amp;hide_border=true" style="max-width: 100%;">
+  </a>
+  </p>
+
+
 
