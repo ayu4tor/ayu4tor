@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center" dir="auto">
   <a href="https://github.com/ayu4tor/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ayu4tor's streak" src="https://camo.githubusercontent.com/d7b14891b53160bb9698efce0967b4da2d52f0acae47478128ed8abb01b339bb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d44656e766572436f64657231267468656d653d6d6f6e6f6b61692d6d6574616c6c69616e26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ayu4tor&amp;theme=monokai-metallian&amp;hide_border=true" style="max-width: 100%;">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ayu4tor's streak" src=[GitHub Streak]"http://github-readme-streak-stats.herokuapp.com?user=ayu4tor&theme=gruvbox&date_format=j%2Fn%5B%2FY%5D"/"https://git.io/streak-stats"
   </a>
   </p>
 
