@@ -2,6 +2,8 @@
 
 <div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Carol42/Carol42/blob/main/assets/header.png"><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/raw/main/assets/header.png" style="max-width: 100%;"></a></div>
 
+<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/f76accf90aa98e66228c854f326902a77e77c884c6b41c4002de3c0ff0c72586/687474703a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233333642434637266c696e65733d49276d2b612b507572726772616d6d65722e" alt="Typing SVG" data-canonical-src="http://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;lines=I'm+a+Purrgrammer." style="max-width: 100%;"></a></p>
+
 - <h2 dir="auto"><a id="user-content-bulb-languages--frameworks" class="anchor" aria-hidden="true" href="#bulb-languages--frameworks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji> Languages &amp; Frameworks</h2>
 -   Html - Css,SQL ,Python ,Java, PHP, Blockchain ,C++, Hacking !!
 - <h2 dir="auto"><a id="user-content-busts_in_silhouette-how-to-reach-me" class="anchor" aria-hidden="true" href="#busts_in_silhouette-how-to-reach-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png">👥</g-emoji> How to reach me</h2>
@@ -22,11 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 dir="auto"><a id="user-content--streak-stats" class="anchor" aria-hidden="true" href="#-streak-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streak stats</h2>
 
-<p align="center" dir="auto">
-  <a href="https://github.com/ayu4tor/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ayu4tor's streak" src=[GitHub Streak]"http://github-readme-streak-stats.herokuapp.com?user=ayu4tor&theme=gruvbox&date_format=j%2Fn%5B%2FY%5D"/"https://git.io/streak-stats"
-  </a>
-  </p>
+
 
 
 
