@@ -10,7 +10,6 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fec3af3aeec22741dbd3f246cf1bbdb50dab87ec2c0e4fe3640960e12ec557e6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e322e302f69636f6e732f6a6176617363726970742e737667"><img align="left" alt="JavaScript" width="24px" src="https://camo.githubusercontent.com/fec3af3aeec22741dbd3f246cf1bbdb50dab87ec2c0e4fe3640960e12ec557e6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e322e302f69636f6e732f6a6176617363726970742e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a706f0017bc975f7ecbf6b7e47658ac8310a1f652ded672f0a6b573b63ef293f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e322e302f69636f6e732f632e737667"><img align="left" alt="C" width="24px" src="https://camo.githubusercontent.com/a706f0017bc975f7ecbf6b7e47658ac8310a1f652ded672f0a6b573b63ef293f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e322e302f69636f6e732f632e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" style="max-width: 100%;"></a></p>
 <br><br>
- <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu4tor&style=flat&color=red&label=PROFILE+VIEWS"/> </p></h2>
 
 <h2 dir="auto"><a id="user-content-busts_in_silhouette-Reach-my-way-" class="anchor" aria-hidden="true" href="#busts_in_silhouette-Reach-my-way-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png">🎭</g-emoji>Reach my way</h2>
 
@@ -32,16 +31,11 @@ You can click the Preview link to take a look at your changes.
  
   <h2 dir="auto"><a id="user-content--streak-stats" class="anchor" aria-hidden="true" href="#-streak-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streak stats</h2>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=ayu4tor&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
+   <h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu4tor&style=flat&color=red&label=PROFILE+VIEWS"/> </p></h2>
   
  <details>
   <summary><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> GitHub Profile Stats</summary>
- 
-<div align="center" dir="auto">
-    <a href="https://github.com/ayu4tor">
-	<img height="180em" src="https://camo.githubusercontent.com/aef5ef9f306903d49419200dbc3cc2aac07fa8189fb41c38510df980f57dc2be/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d696d7669636b796b756d6172393939266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130267468656d653d746f6b796f6e69676874267469746c655f636f6c6f723d32383935424326686964653d5648444c2c537461746126637573746f6d5f7469746c653d4d6f737420726563656e746c792075736564206c616e677561676573" alt="Learning skills" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu4tor&amp;layout=compact&amp;langs_count=10&amp;theme=tokyonight&amp;title_color=2895BC&amp;hide=VHDL,Stata&amp;custom_title=Learning skills" style="max-width: 100%;">
-</a>
-</div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=ayu4tor&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 
 
 
