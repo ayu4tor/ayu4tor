@@ -25,7 +25,9 @@
   <img src="https://cdn-icons.flaticon.com/png/128/4926/premium/4926635.png?token=exp=1645343804~hmac=b2c0f019bbb63ce7bd7bf9b463dedc6d" data-src="https://cdn-icons.flaticon.com/png/128/4926/premium/4926635.png?token=exp=1645343804~hmac=b2c0f019bbb63ce7bd7bf9b463dedc6d" alt="Gmail " title="Gmail " width="32" height="32" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/4926/premium/4926635.png?token=exp=1645343804~hmac=b2c0f019bbb63ce7bd7bf9b463dedc6d 4x">
 </a>
   <a href="https://twitter.com/Ayushii68284285" rel="nofollow"><img src="https://cdn-icons.flaticon.com/png/128/3128/premium/3128212.png?token=exp=1645343920~hmac=ff705baf8df61f85d178a880f52342e7" data-src="https://cdn-icons.flaticon.com/png/128/3128/premium/3128212.png?token=exp=1645343920~hmac=ff705baf8df61f85d178a880f52342e7" alt="Twitter " title="Twitter " width="32" height="32" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/3128/premium/3128212.png?token=exp=1645343920~hmac=ff705baf8df61f85d178a880f52342e7 4x">
-<a href="https://discord.gg/Ayu4shi8#7391" alt="Ayu Pro Tips Discussion &amp; Support Server" rel="nofollow"><img width="32px" src="https://camo.githubusercontent.com/adaa004187d9d68b49031463d39c5e47f1cf77d221b46785b858c8e55d84596c/68747470733a2f2f692e696d6775722e636f6d2f4f56695a4f384a2e706e67" data-canonical-src="https://i.imgur.com/OViZO8J.png" style="max-width: 100%;"></a>
+<a href="https://discord.gg/Ayu4shi8#7391" alt="Ayu Pro Tips Discussion &amp; Support Server" rel="nofollow"><a href="https://www.flaticon.com/free-icon/discord_2111363" class="view link-icon-detail" title="Discord" data-id="2111363" data-src="?term=discord&amp;page=1&amp;position=1">
+  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111363.png" data-src="https://cdn-icons-png.flaticon.com/128/2111/2111363.png" alt="Discord " title="Discord " width="32" height="32" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/2111/2111363.png 4x">
+</a>
 
 <!---
 ayu4tor/ayu4tor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
