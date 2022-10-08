@@ -21,8 +21,6 @@
 
   <a href="https://www.linkedin.com/in/ayushi-agarwal-1946671b9/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/128/152/152815.png" data-src="https://cdn-icons-png.flaticon.com/128/152/152815.png" alt="Linkedin " title="Linkedin " width="32" height="32" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/152/152815.png 4x">
   
- <a href="https://twitter.com/Ayushii68284285" rel="nofollow"><img src="https://cdn-icons.flaticon.com/png/128/3128/premium/3128212.png?token=exp=1645343920~hmac=ff705baf8df61f85d178a880f52342e7" data-src="https://cdn-icons.flaticon.com/png/128/3128/premium/3128212.png?token=exp=1645343920~hmac=ff705baf8df61f85d178a880f52342e7" alt="Twitter " title="Twitter " width="32" height="32" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/3128/premium/3128212.png?token=exp=1645343920~hmac=ff705baf8df61f85d178a880f52342e7 4x">
-   <a href="https://discord.gg/Ayu4shi8#7391" alt="Ayu Pro Tips Discussion &amp; Support Server" rel="nofollow"><a href="https://www.flaticon.com/free-icon/discord_2111363" class="view link-icon-detail" title="Discord" data-id="2111363" data-src="?term=discord&amp;page=1&amp;position=1">
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111363.png" data-src="https://cdn-icons-png.flaticon.com/128/2111/2111363.png" alt="Discord " title="Discord " width="32" height="32" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/2111/2111363.png 4x">
 </a>
 
