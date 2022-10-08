@@ -30,9 +30,7 @@ You can click the Preview link to take a look at your changes.
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu4tor&style=flat&color=red&label=PROFILE+VIEWS"/> </p>
 
  <details>
-  <summary><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> GitHub Profile Stats</summary>
  
-  <a href="https://github.com/ayu4tor/Simple-View-Counter">
  
 
 
