@@ -35,7 +35,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/ayu4tor/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://camo.githubusercontent.com/0fe9a30a036174bf4c15f01bfb583357e3bfbe281724ef8652d3fa60d5cf6e91/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f6170702f44656e766572436f646572312d70726f66696c652d7669657773" data-canonical-src="https://freshidea.com/ayushi/app/ayu4tor-profile-views" style="max-width: 100%;"></a>
  
- <img src="https://activity-graph.herokuapp.com/graph?username=ayu4tor&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 
 
 
