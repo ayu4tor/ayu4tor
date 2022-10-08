@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu4tor&style=flat&color=red&label=PROFILE+VIEWS"/> </p>
 
- <details>
+
  
  
 
